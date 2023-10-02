@@ -1,5 +1,5 @@
 import { zenwars } from "./zenwars";
 
-const commands = [test];
+const commands = [zenwars];
 
 export { commands };
