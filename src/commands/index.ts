@@ -1,4 +1,4 @@
-import { test } from "./test";
+import { zenwars } from "./zenwars";
 
 const commands = [test];
 
