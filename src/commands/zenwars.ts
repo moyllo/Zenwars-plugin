@@ -3,7 +3,7 @@ import { ApplicationCommandInputType, ApplicationCommandOptionType, ApplicationC
 import { getByProps } from "enmity/metro";
 import { REST } from "enmity/modules/common";
 
-const ZenWars: Command = {
+const zenwars: Command = {
   id: "zenwars-command",
 
   name: "zenwars",
@@ -42,4 +42,4 @@ const ZenWars: Command = {
   }
 }
 
-export { ZenWars };
+export { zenwars };
