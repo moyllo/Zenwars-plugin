@@ -1,0 +1,14 @@
+{
+  "name": "MessageSpoofer",
+  "version": "1.1.9",
+  "build": "patch-1.0.13",
+  "description": "Change what people say.",
+  "authors": [
+    {
+      "name": "Marek (modified by spin)",
+      "id": "308440976723148800"
+    }
+  ],
+  "color": "#ff0069",
+  "sourceUrl": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/MessageSpoofer.js"
+}
